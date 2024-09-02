@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Logisim
+Implementation-Version: 2.7.2
+Main-Class: com.cburch.logisim.Main
+
